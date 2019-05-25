@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\RPP_labs_4_sem\\Sem_4_Lab_3_Part_2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\RPP_labs_4_sem\\Sem_4_Lab_3_Part_2\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "8",
+                        "startOffsets": "21",
+                        "endColumns": "59",
+                        "endOffsets": "72"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
